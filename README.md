@@ -34,7 +34,8 @@ $ streamlit run webapp.py
 
   Local URL: http://localhost:8502   
 ```
-![Screen Shot 2021-05-05 at 9.08.10 PM.png](attachment:c09c8043-12a5-40e5-8627-ed5d38a1a586.png)
+![image](https://drive.google.com/uc?export=view&id=1_HMrwevnDAX-J7nXfCEMATNIygdW2WZ5)
+
 
 ### 4. Deploy the web app on Heroku
 - Now you want other people could have the access to your awesome web app which is made easy with Heroku!
