@@ -6,4 +6,4 @@ I also have a notebook to lead the beginner through step by step very detailed a
 
 I encourage people take a look at the Streamlit [documentation](https://docs.streamlit.io/en/stable/api.html) before creating our own WebApp.
 
-You can check my simple WebApp with this [link](https://andy-cool-webapp.herokuapp.com/)
+You can check my simple WebApp with this [link](https://andy-cool-webapp.herokuapp.com/).
